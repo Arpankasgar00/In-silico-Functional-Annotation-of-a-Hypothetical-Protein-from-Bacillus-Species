@@ -1,0 +1,2 @@
+# In-silico-Functional-Annotation-of-a-Hypothetical-Protein-from-Bacillus-Species
+This project involves in-silico functional annotation of a hypothetical protein from Bacillus species using sequence analysis and homology-based approaches. Comparative analysis with known proteins suggests the protein belongs to the recombinase family, indicating a potential role in DNA recombination and genome maintenance.
